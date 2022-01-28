@@ -6,4 +6,5 @@ Getting to learn and know more from freecodecamp tutorial.
 For more information you can visit freecodecamp.org
   
 # Learning
-This project consist mostly of Javascript practice tutorials and javascript projects
+This tutorial consist mostly of Javascript practice tutorials from freecodecamp videos.
+This tutorial consist of some cool projects with javascript.
